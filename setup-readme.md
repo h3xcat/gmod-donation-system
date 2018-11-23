@@ -1,3 +1,7 @@
+
+> This was the original readme that came with the script. I was still in the process of learning English, so please don't judge my grammar too much :).
+
+---
 # Donation System Readme
 ## About the script
 DonationSystem by [H3xCat](https://steamcommunity.com/profiles/76561198000622892) allows server owners to have automated donation services in their servers.
