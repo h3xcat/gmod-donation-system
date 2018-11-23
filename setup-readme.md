@@ -252,7 +252,7 @@ array("lua","
   | STEAMID | string | lua | Buyer SteamID. | Yes |
   | ORDERDATA | table | lua | Order table. (same structure as in `commands` database, for example `ORDERDATA.transactionid` will give you transactionid) | Yes |
 
-### Troubleshooting
+## Troubleshooting
 
   | Error | File | Cause | Fix |
   |---|---|---|---|
