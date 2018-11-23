@@ -1,4 +1,6 @@
-> ⚠️⚠️⚠️ This is one of my old code, and some parts most likely outdated. I have no interest or time to actually go over the code. If someone wants to use this, feel free to fix it. ⚠️⚠️⚠️
+## ⚠️Warning⚠️
+
+This is one of my old code, and some parts most likely outdated. I have no interest or time to actually go over the code. If someone wants to use this, feel free to fix it.
 
 # Donation-System (for Garry's Mod)
 
