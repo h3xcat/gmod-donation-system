@@ -27,7 +27,7 @@ This donation system is only for Garry&#039;s Mod, but its fully customizable an
 * [MySQLOO v8](http://facepunch.com/showthread.php?t=1220537) installed on game server. Some game hosting companies doesn&#039;t allow custom binary modules to be installed on their servers. You should contact your game host to make sure you are allowed to upload binary files before purchasing this script.
 
 ----
-## Images (The design is outdated)
+## Images (outdated design)
 ![Alt text](http://puu.sh/3zOT7.png)
 ![Alt text](http://puu.sh/3zOTW.png)
 ![Alt text](http://puu.sh/3zOQw.png)
