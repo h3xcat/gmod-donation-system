@@ -1,3 +1,5 @@
+> ⚠️⚠️⚠️ This is one of my old code, and some parts most likely outdated. I have no interest or time to actually go over the code. If someone wants to use this, feel free to fix it. ⚠️⚠️⚠️
+
 # Donation-System (for Garry's Mod)
 
 This is a donation/payment system used mainly for Garry's Mod game. This software was one of the firsts scripts on coderhire, the Garry's Mod software market. I have decided to release it in the hopes that someone else might be interested in fixing it(though I haven't tested it, so it might still be working). 
